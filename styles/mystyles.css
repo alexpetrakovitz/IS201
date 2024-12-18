@@ -1,0 +1,55 @@
+.smalltext {
+    font-size:initial
+}
+
+.list{
+    font-size: xx-large;
+}
+
+.post-title{
+    text-align: center;
+}
+.post-subtitle{
+    text-align: center;
+}
+h6{
+    font-weight: bold;
+}
+.explain{
+    font-weight: bolder;
+    
+}
+.italic{
+    font-style: italic;
+}
+.links{
+color: blue;
+}
+.paragraphs{
+    font-weight: bolder;
+    font-size: smaller;
+}
+.photos{
+    height: 20rem;
+}
+.topp{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 1rem;
+    font-size: small;
+    color: blue;
+}
+.divclass{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 1rem;
+}
+.sub{
+    padding-top: 3rem;
+}
+.contact{
+    text-align: center;
+    font-size: x-small;
+}

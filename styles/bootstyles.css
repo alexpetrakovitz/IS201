@@ -1,0 +1,58 @@
+body{
+    background-color: lightgrey;
+    
+}
+.header{
+    top:5px;
+    left:5px;
+    right:5px;
+    height:100px;
+    background-color:rgb(0, 0, 84);
+    color:lightgrey;
+    text-align: right;    
+}
+.htags{
+    color: white;
+}
+.main{
+    left:5px;
+    right:5px;
+    top:115px;
+    bottom:65px;
+}
+
+.tableau1{
+   text-align: center;
+    width:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 25%;
+    font-style: italic;
+}
+
+
+.footer{
+    left:5px;
+    right:5px;
+    bottom:5px;
+    height:50px;
+    background-color: lightslategray;
+
+    
+}
+.otherinfo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.copyright{
+    text-align: center;
+    font-size: small;
+    color: white;
+}
+.topp{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
